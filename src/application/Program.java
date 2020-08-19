@@ -14,6 +14,7 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		Bank bank;
 		
+		System.out.println("Hello! ");
 		System.out.print("Enter account number: ");
 		int number = sc.nextInt();
 		System.out.print("Enter account holder: ");
